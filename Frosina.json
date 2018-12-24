@@ -1,0 +1,15 @@
+{
+    "firstName": "Frosina",
+    "lastName": "Mojsoska",
+    "age": "22",
+    "hobbies": [
+        "Reading",
+        "Playing a piano",
+        "Photography"
+    ],
+    "bestFriend": {
+        "firstName": "Tamara",
+        "lastName": "Andreevska",
+        "age": "21"
+    }
+}
